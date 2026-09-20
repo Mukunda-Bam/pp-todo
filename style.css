@@ -243,13 +243,11 @@ margin-bottom: 32px;
 width: 50px;
 height: 50px;
 
-```
 margin-bottom: 15px;
 
 border-radius: 14px;
 
 font-size: 26px;
-```
 
 }
 
@@ -265,9 +263,7 @@ h2 {
 margin-bottom: 12px;
 padding-left: 12px;
 
-```
 font-size: 1.15rem;
-```
 
 }
 
@@ -287,7 +283,6 @@ hr {
 margin: 30px 0;
 }
 
-}
 
 /* Prevent very long URLs from breaking the layout */
 
@@ -295,4 +290,5 @@ p,
 li {
 overflow-wrap: break-word;
 word-wrap: break-word;
+}
 }
